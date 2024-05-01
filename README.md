@@ -1,3 +1,3 @@
 # Wells Fargo Data Model 
 
-## It is in "Forage Fargo" folder.
+## It's in "Forage Fargo" folder.
